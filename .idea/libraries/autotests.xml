@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="autotests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/java/autotests/io/qt/autotests/TestClassFunctionality.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/java/autotests/io/qt/autotests/resources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

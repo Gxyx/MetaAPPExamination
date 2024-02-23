@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="qtjambi-6.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/qtjambi-6.6.0/qtjambi-native-windows-x64-6.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/qtjambi-6.6.0/ant-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/qtjambi-6.6.0/qtjambi-6.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
